@@ -11,4 +11,6 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=beombeom1&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
-https://github-profile-trophy.vercel.app/?username=beombeom1a&theme=flat
+https://github-profile-trophy.vercel.app/?username=beombeom1&theme=flat
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=beombeom1&theme=flat)](https://github.com/ryo-ma/github-profile-trophy)
